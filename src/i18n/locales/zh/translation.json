@@ -356,6 +356,18 @@
         "add": "添加",
         "remove": "删除 {{word}}",
         "duplicate": "\"{{word}}\" 已存在"
+      },
+      "wordReplacements": {
+        "title": "Word Replacements",
+        "description": "Always replace a word or phrase with another — exact and case-insensitive, no fuzzy guessing. Leave the replacement blank to remove a word.",
+        "fromPlaceholder": "github",
+        "toPlaceholder": "GitHub",
+        "fromLabel": "Word to find",
+        "toLabel": "Replace with",
+        "add": "Add",
+        "remove": "Remove replacement {{from}} to {{to}}",
+        "emptyTarget": "(removed)",
+        "duplicate": "A replacement for \"{{word}}\" already exists"
       }
     },
     "postProcessing": {
